@@ -3,13 +3,13 @@
 ## Registration page for Fabrilife Company
 <p align="center">
   <img width="100%"
-   ## src="far reg 1.PNG"
+   ## src="fab reg 1.PNG"
   >  
 <h3 align="center"></h3>  <br>
 </p>
 <p align="center">
   <img width="100%"
-   ## src="far reg 2.PNG"
+   ## src="fab reg 2.PNG"
   >  
 <h3 align="center"></h3>  <br>
 </p>
